@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ztg729/typescirpt-for-javascript-developer/issues"
   },
-  "homepage": "https://github.com/ztg729/typescirpt-for-javascript-developer#readme"
+  "homepage": "https://github.com/ztg729/typescirpt-for-javascript-developer#readme",
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
