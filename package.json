@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "ts-node": "^8.6.2",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^3.9.10"
   },
   "description": ""
